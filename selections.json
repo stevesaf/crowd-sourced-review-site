@@ -1,0 +1,18 @@
+{ "selections": [{
+    "name": "Happy Hour",
+    "image": "http://freevector.co/wp-content/uploads/2013/02/20181-cocktail-drink-with-stirrer1-200x200.png",
+    "description": "The best values in town"
+}, {
+  "name": "Nerds Rejoice",
+  "image": "https://d30y9cdsu7xlg0.cloudfront.net/png/12678-200.png",
+  "description": "Find video games, tech and toys"
+}, {
+"name": "Restaurants",
+"image": "https://d30y9cdsu7xlg0.cloudfront.net/png/10446-200.png",
+"description": "Upvote new places to try each week"
+}, {
+  "name": "Activities",
+  "image": "https://d30y9cdsu7xlg0.cloudfront.net/png/118640-200.png",
+  "description": "Find new things to do"
+  }]
+}

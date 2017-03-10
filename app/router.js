@@ -7,6 +7,12 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('selectionpage', {path: '/selectionpage/:selection_id'});
+  this.route('happyhour');
+  this.route('activity');
+  this.route('restaurant');
+  this.route('nerds');
+  this.route('happypath');
 });
 
 export default Router;
